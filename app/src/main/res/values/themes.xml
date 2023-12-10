@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculadoraDeNotasDoAluno" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+      <item name="colorPrimary">@color/verdeClaro</item>
+        <item name="android:statusBarColor">@color/verdeEscuro</item>
+        <item name="colorSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.CalculadoraDeNotasDoAluno" parent="Base.Theme.CalculadoraDeNotasDoAluno" />
+</resources>
